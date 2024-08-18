@@ -158,7 +158,8 @@
 }
 /* -- -----------  Choose Your Destination Css ----------------------- -- */
 .destination-point {
-  padding: 10px;
+  /* padding-bottom: -50px; */
+  /* margin: -5px; */
   text-align: center;
   font-size: 20px;
   font-size: 30px;
@@ -171,6 +172,8 @@
   font-style: normal;
   font-weight: 400;
   line-height: 26px;
+  
+ 
 }
 .destination-img {
   width: 573px;
@@ -220,4 +223,42 @@
   border-radius: 16px;
   padding-left: 10px;
   margin-left: 5px;
+}
+
+.box{
+  border-radius: 16px;
+  /* margin: 50px; */
+  margin-left: 30px;
+  border: 1px solid #FBB56333 ;
+  background: #FBB5630D;
+  padding: 50px;
+  width: 500px;
+  height: 200px;
+  align-items: center;
+
+}
+
+.box-2{
+  border-radius: 16px;
+  /* margin: 50px; */
+  margin-left: 30px;
+  border: 1px solid #29cef633 ;
+  background: #29cef60d;
+  padding: 50px;
+  width: 500px;
+  height: 200px;
+  align-items: center;
+
+}
+.box-3{
+  border-radius: 16px;
+  /* margin: 50px; */
+  margin-left: 30px;
+  border: 1px solid #E9444433 ;
+  background: #E944440D;
+  padding: 50px;
+  width: 500px;
+  height: 200px;
+  align-items: center;
+
 }
